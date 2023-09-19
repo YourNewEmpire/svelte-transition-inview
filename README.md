@@ -12,14 +12,11 @@ This is pretty much it so far:
 pnpm create svelte@latest my-app
 
 pnpm i svelte-transition-inview
-
 ```
 or just as dev dependancy
 
-
 ```
 pnpm i -d svelte-transition-inview
-
 ```
 
 
@@ -118,7 +115,7 @@ Lastly, you can pass your own out transition object: `outOptions={TransitionObj}
 
 ```
  // Possible args: FlyParams | "static" | "off"
- 
+
   <FlyInView outOptions="static">
     content
   </FlyInView>
