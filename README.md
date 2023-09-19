@@ -16,7 +16,7 @@ pnpm i svelte-transition-inview
 or just as dev dependancy
 
 ```
-pnpm i -d svelte-transition-inview
+pnpm i -D svelte-transition-inview
 ```
 
 
